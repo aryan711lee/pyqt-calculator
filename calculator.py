@@ -111,3 +111,4 @@ if __name__ == '__main__':
     win = Calculator()
     win.show()
     sys.exit(app.exec_())
+# git remote add origin https://github.com/<aryan711lee>/pyqt-calculator.git
