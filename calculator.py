@@ -1,9 +1,9 @@
 import sys
-from PyQt5.QtWidgets import (
+from PyQt5.QtWidgets import ( # type: ignore
     QApplication, QWidget, QVBoxLayout, QHBoxLayout,
     QPushButton, QLineEdit, QListWidget, QFileDialog, QLabel
 )
-from PyQt5.QtCore import Qt
+from PyQt5.QtCore import Qt # type: ignore
 
 class Calculator(QWidget):
     def __init__(self):
