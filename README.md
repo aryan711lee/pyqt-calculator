@@ -3,7 +3,7 @@
 
 A simple and elegant calculator built using **Python** and **PyQt5**, designed with a modern GUI. This application demonstrates how to build a functional desktop calculator with a graphical user interface.
 
-![screenshot](https://github.com/aryan711lee/pyqt-calculator/assets/calculator_image.png) <!-- Replace with actual image if available -->
+![screenshot](assets/calculator_image.png) <!-- Replace with actual image if available -->
 
 ---
 
