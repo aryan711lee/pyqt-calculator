@@ -8,7 +8,7 @@ from PyQt5.QtCore import Qt # type: ignore
 class Calculator(QWidget):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("PyQt Calculator with History ☀️")
+        self.setWindowTitle("PyQt Calculator")
         self.setFixedSize(500, 500)
 
         self.init_ui()
